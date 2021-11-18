@@ -13,7 +13,7 @@
 
 #### Certification Track
 
-:collision: _-_ AZ-104 - Microsoft Certified: Azure Administrator Associate [ 11/30/21 ]
+:collision: _-_ AZ-104 - Microsoft Certified: Azure Administrator Associate **[ 11/30/21 ]**
 
 :collision: _-_ AZ-500 - Microsoft Certified: Azure Security Engineer Associate
 
